@@ -1,0 +1,1 @@
+<h2 class=" py-[75px] mt-12 text-3xl font-bold">{{ $titleh2 }}</h2>

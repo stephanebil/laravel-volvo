@@ -13,3 +13,11 @@
         <p class="text-blue-500">hellooooooooooooooo</p>
     </body>
 </html>
+
+{{-- @extends('layout.layout')
+
+@section("title","Accueil")
+@section("content")
+@include("partials._card")
+
+@endsection --}}
